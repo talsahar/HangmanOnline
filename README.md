@@ -1,6 +1,6 @@
 
 ## Introduction
-#### Hangman online is a C++ console multiplayer UDP game for two players. One player thinks of a word, phrase or Sentence and the other tries to guess it by suggesting [[Letters(alphabet)| or numbers, within a certain number of guesses.
+#### Hangman online is a C++ console multiplayer UDP game. One player thinks of a word, phrase or Sentence and the other tries to guess it by suggesting [[Letters(alphabet)| or numbers, within a certain number of guesses.
 ## The Server
 Hangman runs on a generic TCP server platform framework I created. Responsible for users authentication, store their score on database and as a third party to connect users each other. 
 It allow users to:
